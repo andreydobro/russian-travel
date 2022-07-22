@@ -1,0 +1,6 @@
+.photo-grid {
+    min-width: 288px;
+    margin: 64px 16px 0;
+    display: grid;
+    row-gap: 12px;
+}
