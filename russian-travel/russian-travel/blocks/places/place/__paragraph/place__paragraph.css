@@ -1,0 +1,25 @@
+.place__paragraph {
+    width: 90%;
+    margin: 32px 16px 0;
+}
+
+@media screen and (min-width: 768px) {
+    .place__paragraph {
+        width: 352px;
+        grid-column: 3 / 2;
+        grid-row: 2;
+        margin: 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .place__paragraph {
+        width: 456px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .place__paragraph {
+        width: 484px;
+    }
+}
