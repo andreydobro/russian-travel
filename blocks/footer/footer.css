@@ -1,0 +1,28 @@
+.footer {
+    min-width: 186px;
+    margin: 64px 16px 24px;
+    display: grid;
+    grid-gap: 48px;
+}
+
+@media screen and (min-width: 768px) {
+    .footer {
+        min-width: 820px;
+        display: flex;
+        justify-content: space-between;
+        margin: 0 auto;
+        padding: 88px 0 24px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .footer {
+        min-width: 928px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .footer {
+        min-width: 1184px;
+    }
+}
