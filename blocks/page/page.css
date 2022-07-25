@@ -49,7 +49,7 @@ a {
     }
 }
 
-@media screen and (min-width: 1280x) {
+@media screen and (min-width: 1280px) {
     .page {
         min-width: 1280px;
     }
