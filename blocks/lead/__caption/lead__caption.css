@@ -7,6 +7,7 @@
     text-transform: uppercase;
     margin: 0;
     padding: 8px 0 0 16px;
+    color: #fff;
 }
 
 @media screen and (min-width: 768px) {
