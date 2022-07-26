@@ -1,5 +1,5 @@
 .footer {
-    min-width: 186px;
+    width: 90%;
     margin: 64px 16px 24px;
     display: grid;
     grid-gap: 48px;

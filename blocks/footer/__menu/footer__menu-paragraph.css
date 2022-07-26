@@ -1,4 +1,4 @@
-.footer__link_menu-paragraph {
+.footer__menu-paragraph {
     text-decoration: none;
     margin: 0;
     font-weight: 400;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (min-width: 768px) {
-    .footer__link_menu-paragraph {
+    .footer__menu-paragraph {
         font-size: 16px;
         line-height: 18px;
     }
