@@ -1,4 +1,6 @@
-.footer__menu-paragraph {
+.footer__links {
+    display: grid;
+    grid-gap: 32px;
     text-decoration: none;
     margin: 0;
     font-weight: 400;
@@ -7,8 +9,11 @@
 }
 
 @media screen and (min-width: 768px) {
-    .footer__menu-paragraph {
+    .footer__links {
+        grid-template-columns: repeat(5, max-content);
         font-size: 16px;
         line-height: 18px;
+        grid-gap: 18px;
     }
 }
+

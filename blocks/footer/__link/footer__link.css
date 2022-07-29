@@ -1,11 +1,8 @@
 .footer__link {
-    display: grid;
-    grid-gap: 32px;
+    text-decoration: none;
+    color: #fff;
 }
 
-@media screen and (min-width: 768px) {
-    .footer__link {
-        grid-template-columns: repeat(5, max-content);
-        
-    }
+.footer__link:hover {
+    opacity: 0.8;
 }

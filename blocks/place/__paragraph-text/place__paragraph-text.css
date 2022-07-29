@@ -10,7 +10,7 @@
     padding: 0;
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1024px) {
     .place__paragraph-text {
         font-size: 18px;
     }

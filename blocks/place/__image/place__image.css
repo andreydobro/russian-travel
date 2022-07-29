@@ -1,7 +1,6 @@
 .place__image {
     min-width: 320px;
     height: 320px;
-    grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
 }
 
 @media screen and (min-width: 768px) {
