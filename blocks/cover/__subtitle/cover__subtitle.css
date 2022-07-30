@@ -14,5 +14,6 @@
     .cover__subtitle {
         font-size: 18px;
         line-height: 22px;
+        padding: 32px 0 0;
     }
 }
